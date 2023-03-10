@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/tic_tac</item>
+        <item name="windowSplashScreenAnimationDuration">200</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.App.SplashTheme</item>
+    </style>
+</resources>

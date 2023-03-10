@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+
+    <inset
+    android:insetBottom="18dp"
+    android:insetLeft="18dp"
+    android:insetRight="18dp"
+    android:insetTop="18dp">
+    <shape android:shape="oval">
+
+        <solid android:color="#F0F0F8" />
+    </shape>
+        <layer-list>
+            <item android:drawable="@drawable/game__2_" android:gravity="center">
+
+            </item>
+        </layer-list>
+</inset>
+
+</item>
+</selector>
